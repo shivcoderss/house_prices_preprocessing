@@ -40,5 +40,5 @@ house-price-preprocessing-app/
 ### 1. Clone this repo
 
 ```bash
-git clone https://github.com/your-username/house-price-preprocessing-app.git
+git clone https://github.com/shivcoderss/house-price-preprocessing-app.git
 cd house-price-preprocessing-app
