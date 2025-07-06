@@ -31,7 +31,6 @@ The goal is to prepare clean, engineered data suitable for use in any machine le
 - ├── test.csv # Kaggle test dataset (add manually)
 - ├── requirements.txt # Python package requirements
 - ├── README.md # You're reading this!
-- └── screenshots/ # (Optional) App screenshots
 
 ---
 
