@@ -2,6 +2,8 @@
 
 This is a **Streamlit** web app for preprocessing and feature engineering on the [House Prices: Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data) dataset.
 
+🌐 **Live App:** [https://housepricespreprocessing-lokpfevx4mwvzxefhame6a.streamlit.app/](https://housepricespreprocessing-lokpfevx4mwvzxefhame6a.streamlit.app/)
+
 The goal is to prepare clean, engineered data suitable for use in any machine learning model, with easy-to-understand visualizations and steps.
 
 ---
