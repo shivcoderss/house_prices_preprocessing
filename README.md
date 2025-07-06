@@ -24,14 +24,14 @@ The goal is to prepare clean, engineered data suitable for use in any machine le
 
 ## 📁 File Structure
 
-house-price-preprocessing-app/
-│
-├── app.py # Main Streamlit app
-├── train.csv # Kaggle training dataset (add manually)
-├── test.csv # Kaggle test dataset (add manually)
-├── requirements.txt # Python package requirements
-├── README.md # You're reading this!
-└── screenshots/ # (Optional) App screenshots
+- house-price-preprocessing-app/
+- │
+- ├── app.py # Main Streamlit app
+- ├── train.csv # Kaggle training dataset (add manually)
+- ├── test.csv # Kaggle test dataset (add manually)
+- ├── requirements.txt # Python package requirements
+- ├── README.md # You're reading this!
+- └── screenshots/ # (Optional) App screenshots
 
 ---
 
